@@ -15,6 +15,10 @@ It demonstrates how to:
 1. **Check/Uncheck Tasks**
    - Implemented with `IconButton`.
    - Tapping the icon toggles between `Icons.check_box` and `Icons.check_box_outline_blank`.
+  
+     ## 📸 Screenshot
+
+![Todo App Screenshot](assets/Screenshot 2025-9-30141611.png)
 
 2. **Swipe to Delete**
    - Implemented using Flutter's `Dismissible` widget.
