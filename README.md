@@ -18,7 +18,7 @@ It demonstrates how to:
   
      ## 📸 Screenshot
 
-![Todo App Screenshot](./assets/Screenshot 2025-9-30 141611.png)
+![Todo App Screenshot](./assets/Screenshot 2025-09-30 141611.png)
 
 2. **Swipe to Delete**
    - Implemented using Flutter's `Dismissible` widget.
